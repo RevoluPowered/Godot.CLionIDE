@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CMakeRunConfigurationManager" shouldGenerate="true" shouldDeleteObsolete="true">
+    <generated />
+  </component>
+  <component name="CMakeSettings">
+    <configurations>
+      <configuration PROFILE_NAME="Debug" CONFIG_NAME="Debug" />
+    </configurations>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="0efd8263-100b-46d3-9b6f-89b05bc4757e" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ClangdSettings">
+    <option name="formatViaClangd" value="false" />
+  </component>
+  <component name="CompDBLocalSettings">
+    <option name="modificationStamps">
+      <map>
+        <entry key="$PROJECT_DIR$" value="0" />
+      </map>
+    </option>
+    <option name="projectSyncType">
+      <map>
+        <entry key="$PROJECT_DIR$" value="RE_IMPORT" />
+      </map>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1Rbw250wxZEbLIIlx9Tl42iEDoY" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="cf.advertisement.text.has.clang-format" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="diff.base" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration name="Godot Engine - Linux" type="CLionExternalRunConfiguration" factoryName="Application" PROGRAM_PARAMS="--path $PROJECT_DIR$/../CorpSquad/CorpSquad.ModelTest -e -v" PASS_PARENT_ENVS_2="true" PROJECT_NAME="godot" TARGET_NAME="Godot build tools" CONFIG_NAME="Godot build tools" RUN_PATH="$PROJECT_DIR$/bin/godot.x11.tools.64.llvm">
+      <method v="2">
+        <option name="CLION.EXTERNAL.BUILD" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="0efd8263-100b-46d3-9b6f-89b05bc4757e" name="Default Changelist" comment="" />
+      <created>1569948894048</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1569948894048</updated>
+      <workItem from="1569948896474" duration="3000" />
+      <workItem from="1569950649437" duration="732000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="89" y="292" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1569951238620">
+      <screen x="0" y="0" width="1920" height="1044" />
+    </state>
+    <state x="89" y="292" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1920.1044@0.0.1920.1044" timestamp="1569951238620" />
+    <state x="710" y="360" key="#com.intellij.tools.ToolEditorDialog" timestamp="1569950824824">
+      <screen x="0" y="0" width="1920" height="1044" />
+    </state>
+    <state x="710" y="360" key="#com.intellij.tools.ToolEditorDialog/0.0.1920.1044@0.0.1920.1044" timestamp="1569950824824" />
+    <state x="746" y="290" key="FileChooserDialogImpl" timestamp="1569951056686">
+      <screen x="0" y="0" width="1920" height="1044" />
+    </state>
+    <state x="746" y="290" key="FileChooserDialogImpl/0.0.1920.1044@0.0.1920.1044" timestamp="1569951056686" />
+    <state x="445" y="155" key="SettingsEditor" timestamp="1569951355267">
+      <screen x="0" y="0" width="1920" height="1044" />
+    </state>
+    <state x="445" y="155" key="SettingsEditor/0.0.1920.1044@0.0.1920.1044" timestamp="1569951355267" />
+    <state x="622" y="349" key="com.intellij.ide.util.TipDialog" timestamp="1569950650124">
+      <screen x="0" y="0" width="1920" height="1044" />
+    </state>
+    <state x="622" y="349" key="com.intellij.ide.util.TipDialog/0.0.1920.1044@0.0.1920.1044" timestamp="1569950650124" />
+    <state x="855" y="177" key="com.intellij.tools.ToolSelectDialog.dimensionServiceKey" timestamp="1569950826280">
+      <screen x="0" y="0" width="1920" height="1044" />
+    </state>
+    <state x="855" y="177" key="com.intellij.tools.ToolSelectDialog.dimensionServiceKey/0.0.1920.1044@0.0.1920.1044" timestamp="1569950826280" />
+  </component>
+</project>

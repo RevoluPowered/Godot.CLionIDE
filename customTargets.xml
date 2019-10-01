@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CLionExternalBuildManager">
+    <target id="c8e81e19-ef46-4edf-b8e2-eaaef26de93d" name="Godot build tools" projectName="godot">
+      <configuration id="e6299ccc-d9e5-41b4-a62e-11330f704819" name="Godot build tools" toolchainName="Default">
+        <build type="TOOL">
+          <tool actionId="Tool_External Tools_Scons" />
+        </build>
+        <clean type="TOOL">
+          <tool actionId="Tool_External Tools_Scons clean" />
+        </clean>
+      </configuration>
+    </target>
+  </component>
+</project>
